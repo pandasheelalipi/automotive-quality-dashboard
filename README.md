@@ -1,30 +1,29 @@
-# 🚗 Automotive Quality & Process Intelligence Dashboard
+# Automotive Quality & Process Intelligence Dashboard
 
 **Author:** Sheelalipi Panda  
 **Programme:** M.Sc. Electromobility (ACES), FAU Erlangen-Nürnberg  
-**Status:** 🟢 Ongoing Project  
+**Status:** Ongoing Project  
 **Last Updated:** May 2026
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
-This project simulates a real-world **automotive quality management intelligence system**, built to demonstrate practical skills in data analysis, quality assurance, process auditing, and structured reporting — directly relevant to OEM production environments at companies like **BMW, Mercedes-Benz, Audi**, and **Trench Group**.
-
+This project simulates a real-world **automotive quality management intelligence system**, built to demonstrate practical skills in data analysis, quality assurance, process auditing, and structured reporting — directly relevant to OEM production environments.
 The project generates, analyses, and visualises quality KPIs across five interconnected areas:
 
 | Module | Description |
 |---|---|
-| 📊 Executive Dashboard | High-level KPI summary across all quality dimensions |
-| 📉 Monthly KPI Trends | First Pass Yield, Audit Score, Supplier Score over 12 months |
-| 🔍 Defect Log | 120-entry defect tracking across plants, components, and severity levels |
-| ✅ Process Audit Log | 30 structured process audits with pass/fail scoring and corrective actions |
-| 🏭 Supplier Scorecard | Multi-criteria supplier quality rating system (A/B/C ratings) |
-| 🧪 Corrosion Risk Register | Component-level corrosion risk assessment (linked to published research) |
+| Executive Dashboard | High-level KPI summary across all quality dimensions |
+| Monthly KPI Trends | First Pass Yield, Audit Score, Supplier Score over 12 months |
+| Defect Log | 120-entry defect tracking across plants, components, and severity levels |
+| Process Audit Log | 30 structured process audits with pass/fail scoring and corrective actions |
+| Supplier Scorecard | Multi-criteria supplier quality rating system (A/B/C ratings) |
+| Corrosion Risk Register | Component-level corrosion risk assessment (linked to published research) |
 
 ---
 
-## 🎯 Why This Project Exists
+## Why This Project Exists
 
 Quality management roles at automotive OEMs require:
 - **Data collection and analysis** — tracking defects, KPIs, and trends
@@ -36,7 +35,7 @@ This project was built independently to demonstrate all of these capabilities us
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Usage |
 |---|---|
@@ -49,7 +48,7 @@ This project was built independently to demonstrate all of these capabilities us
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 automotive-quality-dashboard/
@@ -70,7 +69,7 @@ automotive-quality-dashboard/
 
 ---
 
-## 📊 Key Metrics Tracked
+## Key Metrics Tracked
 
 - **First Pass Yield (FPY%)** — % of components passing quality checks first time
 - **Process Audit Score** — structured scoring of manufacturing process compliance
@@ -81,7 +80,7 @@ automotive-quality-dashboard/
 
 ---
 
-## 🔗 Relevance to Published Research
+## Relevance to Published Research
 
 The **Corrosion Risk Register** module is directly connected to my peer-reviewed publication:
 
@@ -91,7 +90,7 @@ The project applies the same analytical framework — material, environment, coa
 
 ---
 
-## 🚀 Planned Next Steps
+## Planned Next Steps
 
 - [ ] Add Power BI `.pbix` dashboard file
 - [ ] Add CSV data exports for each module
@@ -101,7 +100,7 @@ The project applies the same analytical framework — material, environment, coa
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Sheelalipi Panda**  
 panda.sheelalipi@gmail.com  
